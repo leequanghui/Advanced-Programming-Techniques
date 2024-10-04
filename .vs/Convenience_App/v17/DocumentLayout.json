@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\contactinfopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\contactinfopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\contactinfopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\contactinfopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|c:\\users\\danhc\\onedrive\\desktop\\projectcsharp\\convenience_app\\convenience_app\\addfriendpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\addfriendpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\addfriendpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\addfriendpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\mainviewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\mainviewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\calculators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\calculators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\calculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\calculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\calculatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\calculatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\playpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\playpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\playpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\playpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\calendarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\calendarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\calendarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\calendarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\assets\\contactinfor.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\assets\\contactinfor.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\convenience_app\\assets\\addfriend.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{035E8EFC-5B42-4683-98B6-325E099D0D33}|Convenience_App\\Convenience_App.csproj|solutionrelative:convenience_app\\assets\\addfriend.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 112,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 386,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\BoolToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "Convenience_App\\BoolToVisibilityConverter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:27:33.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddFriendPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\AddFriendPage.xaml.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\AddFriendPage.xaml.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\AddFriendPage.xaml.cs",
+              "RelativeToolTip": "Convenience_App\\AddFriendPage.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAASwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:54:09.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalculatorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\CalculatorPage.xaml.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\CalculatorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\CalculatorPage.xaml.cs",
+              "RelativeToolTip": "Convenience_App\\CalculatorPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:54:23.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\PlayPage.xaml.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\PlayPage.xaml.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\PlayPage.xaml.cs",
+              "RelativeToolTip": "Convenience_App\\PlayPage.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:23:46.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\HomePage.xaml.cs",
+              "RelativeToolTip": "Convenience_App\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:50:57.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\Item.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\Item.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\Item.cs",
+              "RelativeToolTip": "Convenience_App\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:12:32.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\Library.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\Library.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\Library.cs",
+              "RelativeToolTip": "Convenience_App\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:09:25.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Convenience_App\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\MainPage.xaml",
+              "RelativeToolTip": "Convenience_App\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T06:37:28.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CalendarPage.xaml",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\CalendarPage.xaml",
+              "RelativeDocumentMoniker": "Convenience_App\\CalendarPage.xaml",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\CalendarPage.xaml",
+              "RelativeToolTip": "Convenience_App\\CalendarPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T07:01:41.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ContactInfor.png",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\Assets\\ContactInfor.png",
+              "RelativeDocumentMoniker": "Convenience_App\\Assets\\ContactInfor.png",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\Assets\\ContactInfor.png",
+              "RelativeToolTip": "Convenience_App\\Assets\\ContactInfor.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-17T03:02:05.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddFriend.png",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\Assets\\AddFriend.png",
+              "RelativeDocumentMoniker": "Convenience_App\\Assets\\AddFriend.png",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\Assets\\AddFriend.png",
+              "RelativeToolTip": "Convenience_App\\Assets\\AddFriend.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-17T03:01:40.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddFriendPage.xaml",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\AddFriendPage.xaml",
+              "RelativeDocumentMoniker": "Convenience_App\\AddFriendPage.xaml",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\AddFriendPage.xaml",
+              "RelativeToolTip": "Convenience_App\\AddFriendPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T06:38:54.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalculatorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\CalculatorPage.xaml",
+              "RelativeDocumentMoniker": "Convenience_App\\CalculatorPage.xaml",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\CalculatorPage.xaml",
+              "RelativeToolTip": "Convenience_App\\CalculatorPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T07:22:55.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\DelegateCommand.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\DelegateCommand.cs",
+              "RelativeToolTip": "Convenience_App\\DelegateCommand.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:30:37.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayPage.xaml",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\PlayPage.xaml",
+              "RelativeDocumentMoniker": "Convenience_App\\PlayPage.xaml",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\PlayPage.xaml",
+              "RelativeToolTip": "Convenience_App\\PlayPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T07:21:03.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\MainViewModelBase.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\MainViewModelBase.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\MainViewModelBase.cs",
+              "RelativeToolTip": "Convenience_App\\MainViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:33:41.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\MainViewModel.cs",
+              "RelativeToolTip": "Convenience_App\\MainViewModel.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAK0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:33:10.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Calculators.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\Calculators.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\Calculators.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\Calculators.cs",
+              "RelativeToolTip": "Convenience_App\\Calculators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:29:14.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "Convenience_App\\Package.appxmanifest",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\Package.appxmanifest",
+              "RelativeToolTip": "Convenience_App\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2024-06-14T07:15:34.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\MainPage.xaml.cs",
+              "RelativeToolTip": "Convenience_App\\MainPage.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwC0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:13:48.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CalendarPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\CalendarPage.xaml.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\CalendarPage.xaml.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\CalendarPage.xaml.cs",
+              "RelativeToolTip": "Convenience_App\\CalendarPage.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:03:52.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactInfoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\ContactInfoPage.xaml.cs",
+              "RelativeDocumentMoniker": "Convenience_App\\ContactInfoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\ContactInfoPage.xaml.cs",
+              "RelativeToolTip": "Convenience_App\\ContactInfoPage.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:58:36.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactInfoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\ContactInfoPage.xaml",
+              "RelativeDocumentMoniker": "Convenience_App\\ContactInfoPage.xaml",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\ContactInfoPage.xaml",
+              "RelativeToolTip": "Convenience_App\\ContactInfoPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T06:39:20.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Convenience_App\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\danhc\\OneDrive\\Desktop\\ProjectCSharp\\Convenience_App\\Convenience_App\\HomePage.xaml",
+              "RelativeToolTip": "Convenience_App\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T06:38:28.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
