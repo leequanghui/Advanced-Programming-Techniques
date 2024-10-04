@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="Convenience_App.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Convenience_App"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <NavigationView x:ConnectionId='2'  x:Name="MyNavigationView"                                            IsBackEnabled="True" 
+                                              >
+            <NavigationView.MenuItems>
+                <NavigationViewItem x:ConnectionId='3' Icon="Home" Content="Home" x:Name="HomeItem"/>
+                <NavigationViewItem x:ConnectionId='4' Icon="Calendar" Content="Calendar" 
+x:Name="CalendarItem"/>
+                <NavigationViewItem x:ConnectionId='5' Icon="Play" Content="Play" 
+x:Name="PlayItem"/>
+                <NavigationViewItem x:ConnectionId='6' Icon="Calculator" Content="Calculator" 
+x:Name="CalculatorItem"/>
+                <NavigationViewItem x:ConnectionId='7' Icon="AddFriend" Content="Add Friend" 
+x:Name="AddFriendItem"/>
+                <NavigationViewItem x:ConnectionId='8' Icon="ContactInfo" Content="Contact Information" 
+x:Name="ContactInfoItem"/>
+            </NavigationView.MenuItems>
+            <NavigationView.Content>
+                <Frame x:ConnectionId='9' x:Name="ContentFrame"/>
+            </NavigationView.Content>
+        </NavigationView>
+    </Grid>
+</Page>
+
